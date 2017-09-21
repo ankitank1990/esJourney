@@ -1,1 +1,3 @@
-Its the readme file for the project.git commit 
+Its the readme file for the project. Now stage it.
+
+These are chnages after staging.

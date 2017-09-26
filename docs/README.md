@@ -1,1 +1,1 @@
-This is docs readme file.
+This is docs readme file. And this is used to add all the docs readme.

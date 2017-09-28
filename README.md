@@ -8,3 +8,4 @@ This is 4th commit.
 
 
 Added a change from hotfix branch.
+Another change from hotfix.

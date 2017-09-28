@@ -15,3 +15,5 @@ This is commit from local command line. This should conflict
 These are changes made in develop only.
 
 This is another hotfix to merge locally and then pushing to origin.
+
+Changed to check online merge.
